@@ -1,2 +1,8 @@
 # Coursera_Capstone
-GitHub repository for the Capstone project of the IBM Data Science professional certificate on Coursera
+GitHub repository for the Capstone project of the IBM Data Science professional certificate on Coursera.
+This is the submmited project that counts as the final assignment for the Applied Data Science Capstone.
+
+# Finding Where to Live in a New City: A Case Study for the City of Hamburg, Germany.
+Assume you’re moving to a city you now nothing about. You got this great opportunity, but it is in a whole different state/country. You have no family or connections there, so you can’t just ask for suggestions. Google is useful, but you first have to know what to search for. As an example, Hamburg has 103 neighborhoods. Where to start? General searches, such as “Where to live in Hamburg?”, will find hundreds of pages worth of information. But without some firsthand knowledge, how to separate the good advice from the bad? Or to know if whoever wrote the advice has similar priorities to yours?
+
+In those circumstances, a data driven approach can help you jumpstart your search the right way and can be done using a recommender system. On an individual level, if you can cross-reference what types of businesses or amenities are available in each neighborhood with their average rent prices, how safe they are and how far they are from your work place, for example, you can direct your searches towards a handful of preferred locations as opposed to the whole city. And you would know, in advance, that those neighborhoods/quarters are suited for your own personal preferences. On a business level, realtors or real state agencies could develop short questionnaires to probe a client’s preferences and use that to get tailored recommendations for each potential client. City administration, itself, could add such questionnaires to their own websites and produce these recommendations for anyone looking to move into the city.
